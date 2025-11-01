@@ -1,0 +1,2 @@
+# task-7
+ELB-AUTOSCALING
